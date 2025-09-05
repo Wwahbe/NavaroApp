@@ -35,3 +35,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Google API Key
+googleApiKey.js
+
+# Firebase config
+firebaseConfig.js
